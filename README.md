@@ -5,7 +5,7 @@
 
 I build small open-source products where AI, engineering knowledge, and document workflows meet. I care about useful defaults, evidence you can inspect, and documentation that works for both Chinese and international users.
 
-我关注 AI 工程化、工程知识管理与文档自动化，倾向于把复杂流程做成小而可靠的开源工具：默认设置能直接用、结果可以复核、中英文用户都能顺畅上手。
+我关注 AI 工程化、工程知识管理与文档自动化，倾向于把复杂流程做成小而可靠的开源工具：默认设置能直接用、结果可以复核、用户都能顺畅上手。
 
 ## Featured work / 代表项目
 
