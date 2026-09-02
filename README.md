@@ -17,6 +17,7 @@ I build small open-source products where AI, engineering knowledge, and document
 
 ## Notes / 开发手记
 
+- [From Scattered Notes to Decision-Ready Documents / 从零散材料到可决策文档](notes/2026-09-02-cn-workdocs.md)
 - [Why Office Documents Need Reviewable Diffs / 为什么 Office 文档也需要可审查的 Diff](notes/2026-09-02-office-diff-action.md)
 
 ## Working principles / 开源原则
