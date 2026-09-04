@@ -11,7 +11,7 @@ I build small open-source products where AI, engineering knowledge, and document
 
 | Project / 项目 | What it solves / 解决什么问题 | Links / 入口 |
 | --- | --- | --- |
-| **CN WorkDocs** | Turns scattered evidence into decision-ready Chinese reports, plans, minutes, and speeches. 把零散材料变成可决策、可追溯、可执行的中文工作文档。 | [Repository / 仓库](https://github.com/zhuyep/cn-workdocs) · [Example / 示例](https://github.com/zhuyep/cn-workdocs/blob/main/examples/pilot-proposal.md) · [v0.1.0](https://github.com/zhuyep/cn-workdocs/releases/tag/v0.1.0) |
+| **CN WorkDocs** | Turns scattered evidence into decision-ready Chinese reports, plans, minutes, and speeches. 把零散材料变成可决策、可追溯、可执行的中文工作文档。 | [Repository / 仓库](https://github.com/zhuyep/cn-workdocs) · [Install / 安装](https://skills.sh/zhuyep/cn-workdocs/cn-workdocs) · [Example / 示例](https://github.com/zhuyep/cn-workdocs/blob/main/examples/pilot-proposal.md) · [v0.2.0](https://github.com/zhuyep/cn-workdocs/releases/tag/v0.2.0) |
 | **Office Diff Action** | Turns changed Word and PowerPoint files into visual, text, and structural pull-request evidence. 将 DOCX/PPTX 的变化转成可视、文字和结构化的 PR 审查证据。 | [Repository](https://github.com/zhuyep/office-diff-action) · [中文文档](https://github.com/zhuyep/office-diff-action/blob/main/README.zh-CN.md) · [v0.1.1](https://github.com/zhuyep/office-diff-action/releases/tag/v0.1.1) |
 | **Teleprompter / 提词器** | A private, installable browser teleprompter for talks, recording, and live streaming. 面向演讲、录课和直播的本地优先网页提词器。 | [Try it / 在线使用](https://zhuyep.github.io/teleprompter/) · [Source](https://github.com/zhuyep/teleprompter) |
 
